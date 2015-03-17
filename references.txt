@@ -1,0 +1,1 @@
+Caffe notes by yufeigan: http://yufeigan.github.io/categories/LearningCaffe/
