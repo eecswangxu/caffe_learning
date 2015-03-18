@@ -1,1 +1,5 @@
-Caffe notes by yufeigan: http://yufeigan.github.io/categories/LearningCaffe/
+Caffe notes by yufeigan
+http://yufeigan.github.io/categories/LearningCaffe/
+
+Caffe 深度学习框架上手教程
+http://www.csdn.net/article/2015-01-23/2823663
